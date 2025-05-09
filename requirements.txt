@@ -1,0 +1,8 @@
+PyQt5==5.15.4
+pywin32==303
+Pillow==8.4.0
+mss==6.1.0
+keyauth==1.0.0
+opencv-python==4.5.3.56
+PyQtWebEngine==5.15.4
+screeninfo==0.6.7
