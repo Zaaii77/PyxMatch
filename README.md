@@ -55,7 +55,7 @@ Pyx is an advanced Python application that combines screen capture, image recogn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/PyxMatch.git
+   git clone https://github.com/Zaaii77/PyxMatch.git
    cd PyxMatch
    ```
 
